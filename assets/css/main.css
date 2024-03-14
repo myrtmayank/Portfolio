@@ -3906,19 +3906,3 @@ input, select, textarea {
 			}
 
 		}
-
-/* .container */
- 
-
-.centered-container {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: center;
-	align-items: center;
-	height: 100%;
-  }
-  
-  .centered-container iframe {
-	max-width: 100%;
-	max-height: 100vh;
-  }
